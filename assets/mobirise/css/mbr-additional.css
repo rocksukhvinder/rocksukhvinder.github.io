@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1843,4 +1843,31 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-rnsg2uCZ1i {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rnsg2HpeB0 {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rnsg2Mz3WP {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rnsh1PFl3O {
+  background-image: url("../../../assets/images/background40.jpg");
+}
+.cid-rnsg3bQWuR {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rnsg3gzzkZ {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rnsg46gLlH {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rnsg4aHOsZ {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rnshbTjq2p {
+  background-image: url("../../../assets/images/background40.jpg");
 }
